@@ -22,7 +22,7 @@ Add the following dependency to your pubspec.yaml file:
     
 ```yaml
     dependencies:
-    appbar_auto_hide: ^0.0.1 # Replace with the actual version
+    app_bar_auto_hide: ^0.0.1 # Replace with the actual version
 ```
 Then, run:
 ```bash
