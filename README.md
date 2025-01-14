@@ -13,7 +13,11 @@ allowing automatic hiding and showing of the AppBar based on scroll events. This
 
 - Fully customizable to match the design of your app.
 
+
+
 ![20250113_235040](https://github.com/user-attachments/assets/d04f9e90-ff62-43a6-9ec7-f73936fec97f)
+
+
 
 
 ## Getting started

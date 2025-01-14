@@ -1,7 +1,7 @@
 name: app_bar_auto_hide
 description: "A new Flutter allowing automatic hiding and showing of the AppBar based on scroll events"
 version: 0.0.1
-homepage: ""
+homepage: "https://github.com/SwanFlutter/app_bar_auto_hide.git"
 
 environment:
   sdk: ^3.6.0
